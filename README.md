@@ -1,3 +1,3 @@
 # Diagrama de classes
 
-Esse diagrama foi feito no site Draw.io
+Este diagrama foi feito no site Draw.io
